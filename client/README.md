@@ -6,6 +6,8 @@ Front End Framework = React Vite
 
 ## Run Web Apps
 
+npm install
+
 npm run dev
 
 
