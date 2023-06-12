@@ -12,4 +12,5 @@ Smart Contract: `contracts/MyInfaqContract.sol`.
 
 ## Deploying Contract ke Thirdweb
 
+npm install
 npm run deploy
